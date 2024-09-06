@@ -59,10 +59,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Yahoo Finance for providing stock data APIs.
 - The open-source community for various Python libraries used in this project.
 
-![D1](https://github.com/anushayerram2025/Discord_stocks_bot/assets/106475795/eea168f3-61be-4a83-8c7a-32c980c5d275)
+![D1](https://github.com/Dileep9123/discord_stocks_bot/blob/main/assests/Screenshot%202024-09-06%20220539.png)
 
-![D2](https://github.com/anushayerram2025/Discord_stocks_bot/assets/106475795/5f2556a6-fb48-4613-afad-4ea3c1cea66b)
-![D3](https://github.com/anushayerram2025/Discord_stocks_bot/assets/106475795/73ea6098-39d2-43d8-81fb-25e111a24ee2)
-![D4](https://github.com/anushayerram2025/Discord_stocks_bot/assets/106475795/cd8d495c-6557-499e-b76d-6caea1c31fe3)
-![D5](https://github.com/anushayerram2025/Discord_stocks_bot/assets/106475795/121f63f5-7440-4b7e-a37e-faab34b7703d)
-![D6](https://github.com/anushayerram2025/Discord_stocks_bot/assets/106475795/4768ac7a-cd7b-4287-9431-9ce9465e8349)
+![D2](https://github.com/Dileep9123/discord_stocks_bot/blob/main/assests/Screenshot%202024-09-06%20220605.png)
+![D3](https://github.com/Dileep9123/discord_stocks_bot/blob/main/assests/Screenshot%202024-09-06%20220708.png)
+![D4](https://github.com/Dileep9123/discord_stocks_bot/blob/main/assests/Screenshot%202024-09-06%20220838.png)
+![D5](https://github.com/Dileep9123/discord_stocks_bot/blob/main/assests/Screenshot%202024-09-06%20220915.png)
